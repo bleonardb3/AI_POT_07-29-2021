@@ -18,4 +18,4 @@ After completing this lab, you will be able to perform the following exercises:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AI_POT_07-29-2021/raw/main/Lab-1/Watson%20Knowledge%20Studiov07-29-2021.pdf).
+[Instructions](https://github.com/bleonardb3/AI_POT_07-29-2021/raw/main/Lab-1/WatsonKnowledgeStudiov07-29-2021.pdf).
