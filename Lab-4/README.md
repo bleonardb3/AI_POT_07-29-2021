@@ -1,3 +1,5 @@
+# Lab-4: Predictive Analytics and Decision Optimization
+
 ## Introduction
 This lab will introduce users to the use of IBM\'s predictive analytics
 and decision optimization technologies to solve COVID-19 problems. The
