@@ -9,10 +9,6 @@ This lab is a pre-requisite lab. It will set up the Watson Studio environment fo
 Upon completing the lab, you will have:
 
 1.  Created a project
-1.  Created an object storage instance and associated it with the project
-1.  Associated an existing Watson Machine Learning service instance with the project
-1.  Created a deployment space. 
-
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
