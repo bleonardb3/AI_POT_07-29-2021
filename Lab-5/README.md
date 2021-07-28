@@ -1,8 +1,8 @@
-# Lab-5: Create a COVID-19 Dashboard using Cognos Analytics
+# Lab-5: Create a COVID-19 Dashboard using Cognos Dashboard Embedded
 
 ## Introduction
 
-This lab will build a series of Cognos Dashboards to display COVID-19 data.
+This lab will build a Cognos Dashboard Embedded dashboard to display COVID-19 data.
 
 ## Objectives
 
